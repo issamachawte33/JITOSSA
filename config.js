@@ -11,19 +11,19 @@ global.botnumber = ""
 global.confirmCode = ""
 
 global.owner = [
-  ['212670941551', 'Omar !', true],
+  ['212670537559', 'ossama !', true],
 ];
 
-global.suittag = ['212670941551'];
-global.prems = ['212670941551'];
+global.suittag = ['212670537559'];
+global.prems = ['212670537559'];
 
-global.packname = 'JITOOSA';
+global.packname = 'CHT2';
 global.author = 'by';
-global.wm = 'JITOSSA';
-global.titulowm = 'JITOSSA';
-global.titulowm2 = `OMAR`
+global.wm = 'CHT2';
+global.titulowm = 'CHT2';
+global.titulowm2 = `ossama`
 global.igfg = 'JITISSA';
-global.wait = "مرحبًا!\n\nيرجى الانتظار قليلاً حتى نقوم بمراجعة طلبك للانضمام إلى حسابنا على Instagram.\n\n[اضغط هنا](https://www.instagram.com/ovmar_1) لزيارة حسابنا على Instagram.";
+global.wait = " تسنا شويا 😆";
 global.rwait = '🙋🏻‍♀️';
 
 global.mods = [];
